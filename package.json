@@ -18,7 +18,7 @@
   "homepage": "https://github.com/wbalaniucCentennialCollege/COMP397_S2020#readme",
   "dependencies": {
     "easeljs": "^1.0.2",
-    "lite-server": "^2.5.4",
+    "lite-server": "^2.6.1",
     "preloadjs": "^1.0.1",
     "soundjs": "^1.0.1",
     "tweenjs": "^1.0.2"
